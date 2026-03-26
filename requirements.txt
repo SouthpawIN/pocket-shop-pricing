@@ -1,0 +1,5 @@
+# TCGPlayer Price Lookup - Requirements
+# No external Python packages required - uses Hermes built-in browser tools
+
+# Optional: For enhanced parsing (if needed)
+# requests>=2.31.0  # Not used, but available if needed
